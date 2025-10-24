@@ -1,0 +1,2 @@
+# Company-Employee-Database-Analysis-using-SQL-and-MS-Excel
+In this project, I analyzed company employee data using SQL to extract key insights such as department-wise employee count, top earners, and average salaries. The cleaned and processed data was then visualized in Microsoft Excel using interactive dashboards. The dashboard includes charts for employee distribution, department-wise average salary, 
